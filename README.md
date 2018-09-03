@@ -22,4 +22,5 @@ This is an Integrative Team Project done by a group of students from Singapore I
 
 ## UProfile (Android Wear)
 This wearable app detects what activity the user is performing.
+
 <img src="https://user-images.githubusercontent.com/26968011/44969038-d985d680-af7d-11e8-8ab2-5847969c11fb.jpg" width="200" height="172"> <img src="https://user-images.githubusercontent.com/26968011/44969039-d985d680-af7d-11e8-9690-6985874b8466.jpg" width="200" height="172"> <img src="https://user-images.githubusercontent.com/26968011/44969040-da1e6d00-af7d-11e8-9c61-fb63e7d08d6d.jpg" width="200" height="172"> <img src="https://user-images.githubusercontent.com/26968011/44969041-da1e6d00-af7d-11e8-91eb-468d8e8a911d.jpg" width="200" height="172">
