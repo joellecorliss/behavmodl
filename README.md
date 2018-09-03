@@ -10,9 +10,9 @@ This project consists of an Android app named UProfile, both for an Android mobi
 
 This is an Integrative Team Project done by a group of students from Singapore Institute of Technology.
 
-## pre-requsities
-Android Studio
-Python 3
-Tensorflow
+## Pre-requisites
+- Android Studio
+- Python 3
+- Tensorflow
 
 ## UProfile (Android mobile device)
