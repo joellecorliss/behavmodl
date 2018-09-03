@@ -16,3 +16,4 @@ This is an Integrative Team Project done by a group of students from Singapore I
 - Tensorflow
 
 ## UProfile (Android mobile device)
+![main menu](https://user-images.githubusercontent.com/26968011/44968250-6aa67e80-af79-11e8-9e3e-deaa6429ed91.png)
