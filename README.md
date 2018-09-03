@@ -16,8 +16,6 @@ This is an Integrative Team Project done by a group of students from Singapore I
 - Tensorflow
 
 ## UProfile (Android mobile device)
-<img src="https://user-images.githubusercontent.com/26968011/44968250-6aa67e80-af79-11e8-9e3e-deaa6429ed91.png" width="400" height="700">
-<img src="https://user-images.githubusercontent.com/26968011/44968268-9590d280-af79-11e8-81a4-dc0c280e5bab.png" width="400" height="700">
-<img src="https://user-images.githubusercontent.com/26968011/44968274-9c1f4a00-af79-11e8-99f3-db6764dfc4b2.png" width="400" height="700">
-<img src="https://user-images.githubusercontent.com/26968011/44968279-a0e3fe00-af79-11e8-82b5-1c9ee49659ed.png" width="400" height="700">
+<img src="https://user-images.githubusercontent.com/26968011/44968250-6aa67e80-af79-11e8-9e3e-deaa6429ed91.png" width="400" height="700"> <img src="https://user-images.githubusercontent.com/26968011/44968268-9590d280-af79-11e8-81a4-dc0c280e5bab.png" width="400" height="700">
+<img src="https://user-images.githubusercontent.com/26968011/44968274-9c1f4a00-af79-11e8-99f3-db6764dfc4b2.png" width="400" height="700"> <img src="https://user-images.githubusercontent.com/26968011/44968279-a0e3fe00-af79-11e8-82b5-1c9ee49659ed.png" width="400" height="700">
 <img src="https://user-images.githubusercontent.com/26968011/44968280-a5101b80-af79-11e8-9e69-dc91d413bb7a.png" width="400" height="700">
